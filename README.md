@@ -1,4 +1,5 @@
-# Android-App-Market-Analyzing-Google-Play-Store-Data
+oibsip_task2
+Android App Market: Analyzing Google Play Store Data
 Project Overview
 The primary objective of this project is to analyze a dataset containing information about various Android apps available on the Google Play Store. The dataset includes details such as app names, categories, ratings, reviews, size, installs, and more. Additionally, the project incorporates sentiment analysis of user reviews to understand user feedback and opinions about different apps.
 Key Objectives:
